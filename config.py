@@ -28,11 +28,22 @@ XIZMATLAR = {
         ]
     },
     "gift": {
-        "nomi": "🎁 Telegram Gift",
-        "variantlar": [
-            {"nomi": "Gift 1 oy Premium", "narx": 50000},
-            {"nomi": "Gift 3 oy Premium", "narx": 130000},
-            {"nomi": "Gift 6 oy Premium", "narx": 240000},
+    "nomi": "🎁 Telegram Gift",
+    "variantlar": [
+        {"nomi": "💝 Love Heart (15 stars)", "narx": 3750},
+        {"nomi": "🧸 Teddy Bear (15 stars)", "narx": 3750},
+        {"nomi": "🎁 Gift Box (25 stars)", "narx": 6250},
+        {"nomi": "🌹 Rose (25 stars)", "narx": 6250},
+        {"nomi": "🎂 Birthday Cake (50 stars)", "narx": 12500},
+        {"nomi": "💐 Bouquet (50 stars)", "narx": 12500},
+        {"nomi": "🚀 Rocket (50 stars)", "narx": 12500},
+        {"nomi": "🏆 Trophy (100 stars)", "narx": 25000},
+        {"nomi": "💍 Ring (100 stars)", "narx": 25000},
+        {"nomi": "💎 Diamond (100 stars)", "narx": 25000},
+        {"nomi": "🍾 Champagne (50 stars)", "narx": 12500},
+        {"nomi": "🍦 Ice Cream (380 stars)", "narx": 95000},
+    ]
+}, 240000},
         ]
     }
 }
