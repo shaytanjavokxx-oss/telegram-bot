@@ -1,4 +1,4 @@
-BOT_TOKEN = "YOUR_BOT_TOKEN"  # @BotFather dan oling
+BOT_TOKEN = "8008398482:AAGMlJYAQj3NuM0NnrkFx7-PPSPO56YBKvA"  # @BotFather dan oling
 
 ADMIN_ID = 7132963801  # @jony_xD
 ADMIN_USERNAME = "@jony_xD"
