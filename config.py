@@ -3,7 +3,7 @@
 # @BotFather -> /mybots -> bot -> API Token -> Revoke qiling,
 # YANGI tokenni faqat shu yerga (telefonda) yozing.
 # GitHub'ga token yozilgan config'ni YUKLAMANG!
-BOT_TOKEN = "BU_YERGA_YANGI_TOKEN"
+BOT_TOKEN = "8008398482:AAF832zqMSq7JOlBzs3HVmGsEWUidfElgNQ"
 
 BOT_USERNAME = "Jonypremiumbot"     # @ belgisisiz — referal link uchun
 ADMIN_ID = 7132963801               # @jony_xD
@@ -28,8 +28,8 @@ XIZMATLAR = {
     "stars": {
         "nomi": "⭐ Telegram Stars",
         "variantlar": [
-            {"miqdor": 50, "narx": 15000},
-            {"miqdor": 100, "narx": 28000},
+            {"miqdor": 50, "narx": 10000},
+            {"miqdor": 100, "narx": 20000},
             {"miqdor": 250, "narx": 65000},
             {"miqdor": 500, "narx": 125000},
             {"miqdor": 1000, "narx": 240000},
@@ -39,8 +39,8 @@ XIZMATLAR = {
         "nomi": "💎 Telegram Premium",
         "variantlar": [
             {"muddat": "1 oy", "narx": 45000},
-            {"muddat": "3 oy", "narx": 120000},
-            {"muddat": "6 oy", "narx": 220000},
+            {"muddat": "3 oy", "narx": 155000},
+            {"muddat": "6 oy", "narx": 260000},
             {"muddat": "12 oy", "narx": 400000},
         ]
     },
