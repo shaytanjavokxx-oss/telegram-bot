@@ -3,7 +3,7 @@
 # @BotFather -> /mybots -> bot -> API Token -> Revoke qiling,
 # YANGI tokenni faqat shu yerga (telefonda) yozing.
 # GitHub'ga token yozilgan config'ni YUKLAMANG!
-BOT_TOKEN = "8008398482:AAF832zqMSq7JOlBzs3HVmGsEWUidfElgNQ"
+BOT_TOKEN = "8008398482:AAFWdIYZYCKv6qU_Ad2AZm8_4FHGpowwumg"
 
 BOT_USERNAME = "Jonypremiumbot"     # @ belgisisiz — referal link uchun
 ADMIN_ID = 7132963801               # @jony_xD
